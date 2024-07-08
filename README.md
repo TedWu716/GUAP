@@ -1,2 +1,2 @@
-# GAUP: Genral Accouting Universal Problem
-General Accounting Universal Problem(GAUP) is an AI model aim to develop for accounting consultation in Taiwan.
+# GUAP: Genral Universal Accounting Problem
+General Universal Accounting Problem(GAUP) is an LLM model application that can be used for accounting consultation in Taiwan.
