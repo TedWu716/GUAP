@@ -1,0 +1,33 @@
+#[Explanation]
+#This article defines the two main types of income tax in our system: personal income tax and business income tax.
+#
+#[Article] 第1條
+#
+#[Content]
+#所得稅分為綜合所得稅及營利事業所得稅
+#
+#[Article] 第2條
+#
+#[Content]
+#[1] 凡有<country>中華民國</country>來源所得之個人，應就其<country>中華民國</country>來源之所得，依本法規定，課徵綜合所得稅。
+#[2] 非<country>中華民國</country>境內居住之個人，而有<country>中華民國</country>來源所得者，除本法另有規定外，其應納稅額，分別就源扣繳。
+#
+#[Synonyms]
+#中華民國, 台灣, 臺灣, Taiwn, Republic of China
+#
+#[Article] 第3條
+#
+#[Content]
+#[1] 凡在中華民國境內經營之營利事業，應依本法規定，課徵營利事業所得稅。
+#[2] 營利事業之總機構在中華民國境內者，應就其中華民國境內外全部營利事業所得，合併課徵營利事業所得稅。但其來自中華民國境外之所得，已依所得來源國稅法規定繳納之所得稅，得由納稅義務人提出所得來源國稅務機關發給之同一年度納稅憑證，並取得所在地中華民國使領館或其他經中華民國政府認許機構之簽證後，自其全部營利事業所得結算應納稅額中扣抵。扣抵之數，不得超過因加計其國外所得，而依國內適用稅率計算增加之結算應納稅額。
+#[3] 營利事業之總機構在中華民國境外，而有中華民國來源所得者，應就其中華民國境內之營利事業所得，依本法規定課徵營利事業所得稅。
+#
+#[Keywords]
+#營利事業所得稅, 扣抵
+#
+#[Article] 第4條
+#
+#[Content]
+
+
+
